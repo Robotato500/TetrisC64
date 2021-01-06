@@ -1,5 +1,6 @@
-!to "main.prg", cbm
+;Program by Manuel Melguizo
 
+!to "main.prg", cbm
 
 
 
