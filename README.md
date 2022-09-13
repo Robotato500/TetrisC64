@@ -1,7 +1,7 @@
 # TetrisC64
 Project files for C64Studio of a greek-themed Tetris clone for the C64.
 
-I've made this repository public for my MIT portfolio, so you'll have to excuse me if the code is a bit disorganised and not well commented, but it was a private thing only I was supposed to read. If you just found this page browsing through GitHub well, I hope you find this project interesting!
+You'll have to excuse me if the code is a bit disorganised and not well commented, but it was a private thing only I was supposed to read. If you just found this page browsing through GitHub well, I hope you find this project interesting!
 
 First of all, I invite you to download the Commodore 64 disk image file “tetris.d64” inside the “release” folder and run it on an emulator to look at this little game by yourself, if you have the time. Use the A and D keys to rotate the pieces, S to make them go down and Return to begin the game.
 
