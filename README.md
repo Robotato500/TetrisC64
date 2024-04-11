@@ -1,5 +1,5 @@
 # TetrisC64
-Project files for C64Studio of a greek-themed Tetris clone for the C64.
+Project files for C64Studio of a greek-themed Tetris clone for the C64. The main files are called Conway because this project started with an attempt of implementing Conway's game of life; but I ended up coding a version of tetris instead.
 
 You'll have to excuse me if the code is a bit disorganised and not well commented, but it was a private thing only I was supposed to read. If you just found this page browsing through GitHub well, I hope you find this project interesting!
 
